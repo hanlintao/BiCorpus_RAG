@@ -23,7 +23,8 @@
 					<li><a href="checkrepetition.php">查重</a></li>
 					<li><a href="check.php">检查TMX</a></li>
 					<li><a href="edit.php">编辑</a></li>
-					<li><a href="upload.php">上传</a></li>
+					<li><a href="upload.php">上传TMX</a></li>
+					<li><a href="uploadtext.php">上传文本</a></li>
 			<?php
 			
 			if($user_type ==1 )
